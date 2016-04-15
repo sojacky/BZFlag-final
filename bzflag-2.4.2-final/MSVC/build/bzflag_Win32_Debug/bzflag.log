@@ -1,0 +1,6 @@
+﻿  dectree.cxx
+ActionBinding.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  bzflag.vcxproj -> C:\Users\Jacky\Desktop\bzflag-2.4.2-final\MSVC\build\bzflag_Win32_Debug\bzflag.exe
+  A subdirectory or file ..\..\bin_Win32 already exists.
+  bzflag_Win32_Debug\bzflag.exe
+          1 file(s) copied.
